@@ -12,6 +12,8 @@ Socialite, JetStream
 
 ## Instructions
 
+Taken From [Tuts Make](https://www.tutsmake.com/laravel-9-socialite-login-with-github-example/)
+
 GitHub’s OAuth implementation supports the standard authorization code grant type and the OAuth 2.0 Device Authorization Grant for apps that don’t have access to a web browser. If you want to skip authorizing your app in the standard way, such as when testing your app, you can use the non-web application flow.
 
 Laravel 9 Socialite Login with Github Example
