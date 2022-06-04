@@ -10,6 +10,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Socialite, JetStream
 
+## Demo
+
+* <h1 style="text-align:center">Dashboard</h1>
+<img src="dashboard.png">
+
+* <h1 style="text-align:center">Login Page</h1>
+<img src="githublogin.png">
+
 ## Instructions
 
 Taken From [Tuts Make](https://www.tutsmake.com/laravel-9-socialite-login-with-github-example/)
@@ -323,8 +331,3 @@ Now open browser and hit the following urls on it:
 
 `http://127.0.0.1:8000`
 
-* <h1 style="text-align:center">Dashboard</h1>
-<img src="dashboard.png">
-
-* <h1 style="text-align:center">Login Page</h1>
-<img src="githublogin.png">
